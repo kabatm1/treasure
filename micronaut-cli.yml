@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: treasure
+---
+testFramework: spock
+sourceLanguage: groovy
